@@ -18,4 +18,5 @@ Create object of **DeliveryTruck** to load letters and packages.
 The DeliveryTruck class overrides toString() method to display
 packages and letters information that includes number of letter and packages.
 Item[]*
- 
+
+* main method: [Test.java](Test.java)
